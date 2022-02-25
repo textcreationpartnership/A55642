@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Rolesbye in Norfolk, on Wednesday the 12th of January 1680/81, at the funeral of Madam Anna Gleane, the late wife of Thomas Gleane, Esq., the only son of Sir Peter Gleane of Hardwick in Norfolk, Baronet by Robert Prattant ...</title>
+            <author>Prattant, Robert, 1654 or 5-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55642</idno>
+            <idno type="STC">Wing P3185A</idno>
+            <idno type="STC">ESTC R8944</idno>
+            <idno type="EEBO-CITATION">13741499</idno>
+            <idno type="OCLC">ocm 13741499</idno>
+            <idno type="VID">101657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Rolesbye in Norfolk, on Wednesday the 12th of January 1680/81, at the funeral of Madam Anna Gleane, the late wife of Thomas Gleane, Esq., the only son of Sir Peter Gleane of Hardwick in Norfolk, Baronet by Robert Prattant ...</title>
+                  <author>Prattant, Robert, 1654 or 5-1683.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joanna Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gleane, Anna, d. 1681.</term>
+               <term>Bible. --  O.T. --  Job XIV, 14 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101657:1"/>
+            <pb facs="tcp:101657:1"/>
+            <p>A SERMON PREACHED At <hi>Rolesbye</hi> in <hi>Norfolk,</hi> on <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> the 12th. of <hi>January,</hi> 1680/81. AT THE FUNERAL OF Madam <hi>ANNA GLEANE,</hi> The Late WIFE of <hi>THOMAS GLEANE,</hi>
+               <abbr>Eſq</abbr> The only Son of Sir <hi>Peter Gleane</hi> of <hi>Hardwick</hi> in <hi>Norfolk</hi> Baronet.</p>
+            <p>By <hi>ROBERT PRATTANT,</hi> M. A. and Rector of <hi>Thrigbye</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joanna Brome</hi> at the Gun at the Weſt-end of St. <hi>Paul</hi>'s Church-yard. 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101657:2"/>
+            <pb n="1" facs="tcp:101657:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>JOB 14.14.</hi>
+               </bibl>
+               <q>If a Man dye ſhall he live again? All the days of my appointed time will I wait till my change come.</q>
+            </epigraph>
+            <p>WE had the ſad Occaſion this day of meeting at the houſe of Mourning to aſſiſt at the Funeral Solemnity a young Lady lately deceasd (of whom I think my ſelf bound to ſpeak more hereafter) and are at length come to perform the laſt Rights of Parentation, and to leave her body in the ſilent Dormitory of a Grave, in the ſure hopes and Expectation of a Glorious and Joyful Reſurrection.</p>
+            <p>But before we come to that laſt Office of Humanity and Chriſtian Kindneſs to the dead, it may not be diſadvantageous to us the Melancholy Surviving, who muſt ſhortly follow, and make our bed with her in the duſt, to make ſome ſuitable Uſe and Improvement from the Solemn Occaſion now before us, and which (I have reaſon to believe) was the main and only intent of this Perſon when living, if at any time ſhe ſpake of a Sermon to be preached at her Funeral.</p>
+            <p>No doubt but it was but of Charity to the living when (as to my knowledge) ſhe was a Perſon of that Judgment and ſingular Modeſty, that as ſhe was aſſur'd that no Circum<g ref="char:EOLhyphen"/>ſtance or Action of ours could concern her, ſo neither did ſhe
+<pb n="2" facs="tcp:101657:3"/>Affect any vain Praiſes or bigg Elogies when dead, who ſtood ſo little in need of any artificial dawbing, or flattering Com<g ref="char:EOLhyphen"/>mendation whilſt living.</p>
+            <p>And according to this Caution and having beſpoke your Can<g ref="char:EOLhyphen"/>dor on this behalf, I ſhall (without offering any Apology for my ſelf) betake me to the Office that is at preſent aſſign'd me, and to the part which is allotted me at this ſad So<g ref="char:EOLhyphen"/>lemnity.</p>
+            <p>And certainly the occaſion it ſelf is a prompt and ſpeaking one, and gives you a fuller and plainer Funeral Sermon, a nearer Proſpect of Mortality, and of the Inſta<g ref="char:EOLhyphen"/>bility and uncertainty of humane Life, then all the labour'd Art of the moſt exquiſite Preacher is able to do.</p>
+            <p>For if we Conſider and make Remarques as we ought, if we Apply this inſtance home to our ſelves, we ſhall be ſufficiently Convinc'd of the tottering Condition of Man here in this World, and that even in his beſt Eſtate he is altogether ſubject to Vanity.</p>
+            <p>For would you be ſatisfi'd of the Laſtingneſs and Perpetuity of theſe things which are by moſt own'd to Aggrandize the Fortunes and Conditions of Men here in this World, to make them to be looked upon and admir'd by their fellow Mortals, and you ſhall find that the moſt Conſiderable (though not all of them) have had their termination and fatal period ſome little time ſince in the Perſon here before us, and who was not arrived to the Age of two and thirty.</p>
+            <p>If you enquire after Beauty, Affability and Candor of mind, the moſt native Sweetneſs and Obligingneſs, the moſt innocent Freedom and unſuſpected Mirth, (which was not often neither) whether you Conſider the advantages of the Body, or inward Graces and Beauties of the mind, you will find that all of them have had their fatal period in this Perſon whoſe early Funerals we now Celebrate, and whom we have reaſon to believe is remov'd into the peacea<g ref="char:EOLhyphen"/>ble Regions of Eternal Reſt.</p>
+            <p>
+               <pb n="3" facs="tcp:101657:3"/>They are all ceas'd and vaniſhed as to us, ghaſtlines takes up the room of Beauty, and all that was once Lovely and Charming is withdrawn and ſhrouded under a dark Cloud caſt over her Body, by the indiſpenſible Law of Mor<g ref="char:EOLhyphen"/>tality.</p>
+            <p>But that I may the better Aſſiſt your Meditations and direct you to the Uſe that ought to be made of this, and all ſuch like Occaſions, I ſhall betake my ſelf to a Con<g ref="char:EOLhyphen"/>ſideration of the Pious and ſtedfaſt Reſolution of Holy <hi>Job</hi> here; <hi>all the days</hi> &amp;c:</p>
+            <p>Now that which put him, and ought to put all Wiſe and Conſidering Men into this devout Frame and Poſture of mind, of a Conſtant and Serious Watching againſt the day of Change and Deſolution, was the Conſideration of the miſery and ſhortneſs of Life here, and the firm belief of a State hereafter.</p>
+            <p>He Learnt this Wiſdom from his Faith, and from a Con<g ref="char:EOLhyphen"/>ſideration of the Afflictions that he himſelf had undergone, and at preſent Labours under (with which he had been thick ſurrounded) having liv'd formerly in the greateſt Proſperity, and from a deep ſenſe of the miſery and ſhort<g ref="char:EOLhyphen"/>neſs of Life, and Certainty of Death, he reſolv'd to Continue in a Conſtant and ſetled Preparation for it, and patiently to wait that happy Change and alteration which ſhould ſet him free, and diſengage him from all the Miſeries and Diſtractions of this Life.</p>
+            <p>He lays down the ſhortneſs and withal the certain Miſeries of Mans Life, Verſ. 1. <hi>Man that is born of a Woman</hi> &amp;c: And foraſmuch as he is aſſur'd how that time once paſt is never to be recall'd, and that there is no returning to Life here again, therefore he reſolves to live in a Conſtant expectation of that happy Change, that ſhould ſet him free from the Ted<g ref="char:EOLhyphen"/>ders and groſs Bonds of the Body, and gain him an happy Liberty and Freedom.</p>
+            <p>'Tis true, <hi>ſoles occidere &amp; redire poſſint,</hi> the Sun that ſets to us may reneuw its Circling Courſe, and viſit our Horizon
+<pb n="4" facs="tcp:101657:4"/>again; and plants, as <hi>Job</hi> here Philoſophically argues, may, nay oftimes do revive and ſprout again; but 'tis not ſo with Man; when his Sun ſets, it will be a Conſtant gloomy night with him, and when his Trunk be once cut down, it it will lye ſapleſs and wither, and not take root and flouriſh again while the Reſtitution of all things, and that the Hea<g ref="char:EOLhyphen"/>vens ſhall be no more. <hi>If a Man dy ſhall</hi> &amp;c.</p>
+            <p>Yea doubtleſs, he ſhall live again, but not here, and it was in Expectation of that, that the Author of theſe Words, an eminent Inſtance of humane Miſery and Sorrows, reſolv'd patiently to wait till ſuch time as that happy Change ſhould be, for he aſſures us elſewhere with the moſt Heroick and Illuſtrious Faith, <hi>I know that my Redeemer liveth,</hi> &amp;c.</p>
+            <p>It was from this Principle that he not only waited for, but even Courted the Approach of death, and long'd for the Grave more then ſome Men do for deep hid Treaſures. It was not out of any falſe or miſtaken Principle, not like to any doubtful Platonick Hypotheſis, or out of any ſullen Paſſion or Diſcontent (though he lay under ſtrong Tempta<g ref="char:EOLhyphen"/>tions to it from afflicting Circumſtances he was in) But it was from the true Theory of the Divine Nature, and Attributes, and from thence an Aſſurance fetch'd of an After-State wherein he ſhould receive the reward of all his ſufferings and hard Meaſure here.</p>
+            <p>I was from the true Religion that he had an early ac<g ref="char:EOLhyphen"/>quaintance with, that he was taught to expect Death with Patience and Reſolution, and to welcome its approach not only with Courage, but with Delight and Satisfaction of mind.</p>
+            <p>And alas! How hopeleſs, how far ſhort of this true Wiſdom and Philoſophy comes all the ſublimeſt diſcourſes of the moſt refined Heathens, <hi>Chriſt being raiſed from the dead, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth no more, and becomes the firſt fruits of them that ſlept,</hi> gives us a clearer Evidence and account of the Reſurrection and Future State of the Soul, then ever any the moſt Labour'd Diſcourſe of the moſt ſearching Philoſopher was able to do</p>
+            <p>
+               <pb n="5" facs="tcp:101657:4"/>They were ſo far from giving a ſatisfactory Account of the Future State of the Soul, ſuch as others might rely on, and found their belief upon, and be encourag'd to undergo the the worſt of Evils and Diſapointments here, and with Content and Patience to ſuſtain the unwelcome addreſſes of Death; they were ſo far, I ſay, from ſatisfying others herein, that they could not maintain themſelves upon ſuch aiery food, or be induc'd to quit the Enjoyments of this Life for the hopes of a better.</p>
+            <p>Their utmoſt Eſſayes this way amounted no farther then to a bare or poſſibility, ſeeming probability of the Reſurrection of the Body, and Immortality of the Soul. And here too they were entangled and overcome with great Perplexities. Some<g ref="char:EOLhyphen"/>times they Contradicted themſelves, and at other times de<g ref="char:EOLhyphen"/>liver'd themſelves very ſuſpenſlly and doubting about it, and that too even immediately before their deaths.</p>
+            <p>To inſtance in one or two of the moſt eminent of them. <hi>Socrates</hi> the fam'd Introducer of Morality, who was worthily follow'd and admir'd be the better part of the Gentile World, and whoſe Caſe herein is very notorious, had ſtrange Miſgivings as to what ſhould be his State in another World; and whether his Soul ſhould Survive or no, he durſt not determine, only tells thoſe that were about him, juſt as he was about to ſuffer Death, that he ſhould ſhortly experience the Certainty of it, but was not (if it did) ſo kind, that we read of, to return back to inform them.</p>
+            <p>And <hi>Tully,</hi> though in his <hi>Cato Major,</hi> in his <hi>ſomnio Scipionis</hi> and in other places, he ſpeaks powerfully and well of the Immortality of the Soul, and expreſſes a wounderful joyful Reſentment of the day of Death, feelingly, Crying out, <hi>O praeclarum diem, cum ad illud Divinorum animorum Concilium Coetumque proficiſcar</hi> &amp;c. Rejoycing above all that thereby he ſhould be admitted into the Society and preſence of his beloved and admir'd <hi>Cato,</hi> beſides thoſe other excellent perſonages that he had before mention'd, who had ſome time ſince expir'd; yet after all, I remember that in ſome
+<pb n="6" facs="tcp:101657:5"/>other places of his Writings, he propounds Annihilation with a great deal of Indifferency, and ſeems to be Content to allow that, as well as the poſt-exiſtence of the Soul, and leaves it in equal doubt and debate.</p>
+            <p>And we read in his Life, that when the fatal Executioner came to apprehend him, and that he found that he was diſ<g ref="char:EOLhyphen"/>cover'd, that he preſented himſelf as it were already half-ghoſted with fear; and by the laſt Circumſtances we may gueſs; that he tamely yielded himſelf more out of deſign, and an haſty deſire to get free of the troubles of this Life, then out of any Confidence he had of entering into a better State hereafter.</p>
+            <p>And <hi>Cyrus</hi> in his famous Speech, or Oration made immedi<g ref="char:EOLhyphen"/>ately before his Death to his Sons and <hi>Perſian</hi> Nobles, (if that were really his which we find at large in <hi>Zenophon;</hi> and ſome part of it, as to what Concerns the Immortality and Future State of the Soul,) tranſlated by <hi>Cicero</hi> in the latter part of his <hi>Cato Major</hi> forequoted) though there he largely and freely diſcourſes the Future Subſiſtence of the Soul, and the reaſons he had to incline him to the belief of it, and that after the moſt manly rate: Yet I take notice that in the latter part of that his dying Speech, he takes his leave of the by-Standers in expreſſions equally granting the Exiſtence or Future Reduction, and Annihilation of the Soul. For theſe are his Words, (As <hi>Zenophon</hi> there makes him to ſpeak) <q>Whether I ſhall be with the Divine Nature, with the Pure and Eternal Eſſenſes, or vapour into Air, and be reduc'd to nothing: Yet upon either of thoſe Accounts, let thoſe that accompany me to the Sepulcher congratulate my <hi>Excit</hi> and happy deliverance from the Body, being not Capable any longer of ſuffering any Grief or Evil.</q>
+            </p>
+            <p>Now all this that I have inſtanced in, is only to ſhow is how unable the Learnedſt and Wiſeſt of the Heathen Philoſophers were (only by the light of Nature without any higher re<g ref="char:EOLhyphen"/>velation) to demonſtrate, and make good the reaſonableneſs of the poſt-exiſtence of the Soul of Man; and to make
+<pb n="7" facs="tcp:101657:5"/>appear from what an higher diſcovery it was, that the in<g ref="char:EOLhyphen"/>ſpir'd Author of theſe Words, was not only induc'd to wiſh for Death, and that in ſome ſudden Fit, or Paſſion, but likewiſe taught to expect it with the moſt ſtrictneſs and reſolution. <hi>All the days of my</hi> &amp;c.</p>
+            <p>He went upon far higher Principles than ever any the moſt Celebrated Pagan eſſay'd to do, and it was not only from a Contempt of this World, and the ſlighting Afflictions of it, but alſo from the grounded Revelation he had of enter<g ref="char:EOLhyphen"/>ing into an immortal State, after this Life was ended, and that to be attended with the moſt conſtant and uninterrupted Joy.</p>
+            <p>And this latter Conſideration it was that put him upon his Conſtant Watch and Guard, reſolving not to omit for the leaſt moment or interval of time, <hi>All the days of my</hi> &amp;c. But we may very well ſuppoſe that it was the ſhortneſs of this Life that had a powerful influence over <hi>Job,</hi> and diſpos'd him to this Leſſon of diligent Attendance, and patiently to expect that happy Change, that bleſſed moment that ſhould give him his Quiet from all the Afflicting Diſcontents, and from the throng of Sorrows of this Life; and gain him an happy freedom into thoſe Regions, where no Storms can ruffle or diſturb the Soul of Man.</p>
+            <p>And indeed my Brethren, the ſorrowful ſi Conderations of the dividing Cares and Troubles that are inſeparable attend<g ref="char:EOLhyphen"/>ments even of the moſt happy and proſperous here in this World, together with the undoubted Certainty and Experience of the ſhortneſs of Mans Life, ſhould be ſufficient for every one of us, to be upon our Guard that we may not through a drowzy and careleſs neglect be excluded from the man<g ref="char:EOLhyphen"/>ſions of Happineſs hereafter.</p>
+            <p>Alas, what is more Obvious and Evident to us, than that the Tyrant Death dogs us, and overtakes us every where, in variety of Accidents and Circumſtances.</p>
+            <p>We can flee no where from his diligent perſuit. He Com<g ref="char:EOLhyphen"/>mits daily rapes upon ſome or other of the Mortal off-ſpring
+<pb n="8" facs="tcp:101657:6"/>and calls us oft-times home, to be eye-witneſſes of his Con<g ref="char:EOLhyphen"/>queſts gain'd over ſome or other of our near Accquaintance and Relations: As at this time we are of his Conqueſt over this Lady who lays the ſilent Trophy of his Victory.</p>
+            <p>But yet ſhe ſpeaks to us from the bed of Duſt, ſhortly to expect the ſame Change that ſhe has ſo lately undergone, and to provide for it.</p>
+            <p>And ſure it is but reaſonable that we ſhould be warn'd from ſuch a Memento, when a Perſon not yet arriv'd to the prime of her years, of ſtill blooming youth; of the greateſt Innocency and Modeſty and of the moſt univerſal Kindneſs and Obligingneſs amongſt all ſhe Convers'd, has ſometime ſince had her fatal ſummons, and is at preſent withdrawn to the Chambers of Death.</p>
+            <p>Beſides we ought to think our ſelves the more nearly Concern'd in this accident (and that if it had happened to any Body (as of late it has done to a Conſiderable and Known number here amongſt us) Death being uſually the more apprehended and regarded by us, when we obſerve him to be advanced into the neighbourhood, and that we know not how ſoon he may Call at our own houſes, and viſit our particular beds.</p>
+            <p>And from this Conſideration let me briefly recommend to you all that at preſent I deſign'd from this Subject, and from this Occaſion; that you live in a Conſtant and fixed preparation of mind, of welcoming Death, when or where<g ref="char:EOLhyphen"/>ſoever he Comes to you; that you put not off your Con<g ref="char:EOLhyphen"/>verſion and Repentance while a more Convenient ſeaſon; Knowing that it will be too late for that, when we once Come into the State into which the Perſon now before us, is entered, when that the faint Tapers are lighted, and that Blacks and Cyprus adorn our Funerals.</p>
+            <p>Let us duely wait for our Change, <hi>all the days of</hi> &amp;c before the night approaches wherein no Man can Work, before we be invelop'd with darkneſs and a ſable Cloud,
+<pb n="9" facs="tcp:101657:6"/>and overtaken with the Shadow of Death, and we find our ſelves poſſeſs'd of the Land where all are things forgotten.</p>
+            <p>I have now finiſhed what I intended to the living, but I have ſome reaſon to fear that I ſhall not be juſt to the memory of the dead; If I premiſe not ſome particulars touching this Excellent and Vertuous Perſonage.</p>
+            <p>And here I ſhall not detain this Audience by tracing up things, and viewing her innocent Behaviour and Carriage from her Infancy and Cradle; which I had not the power, or opportunity of knowing, and therefore am not fit to declare them to others; nor ſhall I mix any thing that is in the leaſt to me doubtful or uncertain, but ſhall only preſent you with a juſt and impartial Account of ſome of the moſt Conſiderable particulars which I took notice of during the time I liv'd in the family, of which She was one of the neareſt Relations: And which upon being an Eye-witneſt and upon my own Obſervation I know, and therefore dare publiſh to be true.</p>
+            <p>As for her Birth and Extraction, which was more than ordinary, for her grateful Comelineſs and Behaviour, as She her ſelf did not deſire they ſhould be taken notice of whilſt living, nor valu'd her ſelf upon the ſcore of them, ſo neither ſhall I now She is dead, Call them over to your Remembrance: Knowing that we are beholden to others for thoſe and ſuch like Advantages, and therefore do not deſerve to reap any unjuſt Commendations from them, they having never been in our power.</p>
+            <p>I ſhall therefore Conſider her in the Capacity of a Chriſtian, and as to her natural diſpoſition, which doubtleſs She had much improv'd from the Rules of her Holy Religion.</p>
+            <p>She was very Conſtant as to the Exerciſes and Offices of Religion: very .exemplary as to her Piety and Devotion, and would not willingly omit any Opportunity of attending at Gods Sanctuary,</p>
+            <p>She would oft utter her diſlike of the Diſſenting Parties
+<pb n="10" facs="tcp:101657:7"/>from the Church of <hi>England,</hi> and had all ſuch been of her happy Temper, of ſo great Humility and Self-denyal, of ſuch Condeſcenſion and Dove-like Simplicity, the Jars and Struglings that are amongſt us had long ſince Ceaſed, and we had remained an happy People, United in Charity and Diſcipline, as well as in Faith. Nor did her Religion ſet looſely by her, like that of too many, who ſhew it ſelf only in outward forms, in external Pomp and Gaudineſs, but it was Solid and Real, and if any of late have been endow'd with the Ornaments of a meek and humble Spirit, She was One.</p>
+            <p>Nor was her Devotion only to be taken notice of, when in the public Temple, and in the view of a great Number; but it was remarkable at home, and my ſelf have taken notice (Miniſtring the Office of Prayer in the Family) that if at any time She had eſcap'd the Opportunity of joyning in that Holy Duty, (which was very rarely, and then too through a miſtake of the time, or ſome other Occaſion that was not her fault,) She would put on the greateſt ſeeming anger and diſpleaſure, that I have obſerv'd in her at any time, which diſcover'd, how that She looked upon it to be a more grievous Diſapointment to be abſent from their Com<g ref="char:EOLhyphen"/>pany at that time, when they were about that Solemn and Religious Exerciſe, than at any other.</p>
+            <p>Nor were her more retired and Cloſet Devotions leſs Conſtant and Frequent; and I have ſometimes taken notice, that ſhe hath privately withdrawn, when their company have been that otherwiſe She approv'd of; which could be for no other Reaſon, then that in ſolitude She might enjoy far better Company: by fervent Prayer and Meditation main<g ref="char:EOLhyphen"/>taining an humble Familiarity and Converſe with Heaven; which I ever look'd upon to be a rare Inſtance in one of her years, and fortune.</p>
+            <p>Nor was her Duty only towards God remarkable, but likewiſe, (as the effects of that,) towards her natural Parents,
+<pb n="11" facs="tcp:101657:7"/>which I have heard them oft-times expreſs with the moſt Joyful and Concern'd Reſentments. Nor do I Remember that ever I heard her taxt for Diſobedience by them in any particular; but always applauded for her Conſtant Affection and Duty, which was as Early as She was Capable of Under<g ref="char:EOLhyphen"/>ſtanding, what Obligations She lay under to them, and ſometime before that.</p>
+            <p>And though She did not experience that Reward promis'd to Obedience under the Old Law, of having her days lengthned out here on Earth, yet we need not queſtion but that will be made good to her by vaſt Immortality in a far better State.</p>
+            <p>What ſhall I ſay more? for neither the Time, nor yet my Temper or Capacity will allow me at preſent, to enter into the Common places of Rhetorick, or to Ex<g ref="char:EOLhyphen"/>patiate on her juſt praiſes:</p>
+            <p>She was the moſt Obſequious and Reſpective Wiſe, her Love to her Husband was wonderful, ſurpaſſing the Love of moſt Women: And his to her's equal; ſo that I dare here declare, the Lovingeſt Couple I knew are here parted.</p>
+            <p>And as a farther Argument of her Love to him, the Care and Indulgence to her Children (as many as Providence was pleaſed to let live with her) was extraordinary, and giving place to none.</p>
+            <p>To ſum up all in this ſhort Character of her, She was of the moſt Bountiful, Liberal and Courteous Temper, of a Generous, Obliging Nature; She never willingly Diſobliged any, nor did ſhe provoke and to be her Enemies, though (to their ſhame be it ſpoke) She met with too many: As the Sweeteſt and Mildeſt Tempers are oft-times Obſerved to be requited in this barbarous and ill natur'd World with the greateſt Spire and Contradiction.</p>
+            <p>She was every way Modeſt and reſerv'd, and yet Eaſy and Familiar; But above all, her reſervedneſs as to her ſpeech was ſingular, and fit to be propounded for Imitation in this Un<g ref="char:EOLhyphen"/>charitable
+<pb n="12" facs="tcp:101657:8"/>and Cenſorious Age, wherein the Liberty of the Tongue has not only blaſted private Perſons but has been In<g ref="char:EOLhyphen"/>ſtrumentall almoſt to the undoing of a Nation the Second time. She was very ſlow to Conceive or utter any ill of others; I ſcarce remember that I ever heard her ſpeak detracting of any Body, though to my Knowledg ſhe had oft had ſufficient provo<g ref="char:EOLhyphen"/>cations ſo to do, having met with harſh and uncivil treatment from the malicious and unruly Tongues of others.</p>
+            <p>One would have thought that ſo much goodneſs mix'd with ſo Innocent and Harmleſs a Countenance ſhould have guarded her from the rudeneſs and ill nature of the World. But alas; Innocency is a While that Malice Shoots all its darts at, and Vertue is of ſo different a Complexion from Vice, that no wonder that 'tis ſingled out and Perſecuted by the Con<g ref="char:EOLhyphen"/>ſpiring World, too fond of its Extream.</p>
+            <p>Her Shape, and the Air of her Face were beautiful and attracting, and ſeem'd to have a near Reſemblance and to be exactly fitted to the bright Soul that dwelt with<g ref="char:EOLhyphen"/>in. Her Countenance was ſo innocent and inoffenſive, that it might have beſpoke Kindneſs and Compaſſion even amongſt the Salvages.</p>
+            <p>If there be any here, out of Curioſity expect to be in<g ref="char:EOLhyphen"/>form'd as to the Circumſtances of this Perſon in her late Sickneſs, before the immediate approach of Death, I ſhall only acquaint them that I had not the Opportunity of at<g ref="char:EOLhyphen"/>tending her, or Miniſtring to her in that laſt <hi>Tryal,</hi> when the Sorrowful Agonies of Death beſet lier. And if She diſcover'd any diſorder and tumult (as the brighteſt Soul may ſometimes be overcaſt, and eſpecially in that ſeaſon, when the Faculties are weak and impaired, the Underſtanding benighted, and un<g ref="char:EOLhyphen"/>able to rally up ſufficient forces againſt the power of Temptati<g ref="char:EOLhyphen"/>ons,) yet as I have ben Gredibly Informed by that Worthy and Reverend Relation of Hers who was her chieſt and beſt Con<g ref="char:EOLhyphen"/>feſſor in time of her ſickneſs; the ſtorm went off, and there was nought elſe diſcernablea fter but Calm and Sun-ſhine, a ſetled and peacable compoſed Conſcience; A happy preſage of her
+<pb n="13" facs="tcp:101657:8"/>being now arrived at the Peaceable and Bleſſed Haven, where both I and you have reaſon to believe She is. Beſides to give you my ſenſe hereof, if it were neceſſary to declare poſitively, I would ſooner conceive well of the happineſs of this Perſon in another State, whoſe foregoing Life had been ſo Innocent, and not ſtained with any conſiderable Vices, than truſt to the late Vows, and reſolutions of a Death-bed, tho accompanied with the moſt formal and Ceremonious notes of Sorrow and Repentance.</p>
+            <p>And now leaving Her to ſlumber in the Duſt (Death being compared to ſleep not only in profane Authors but in the Divine Books of Scripture:) Let me addreſs my ſelf to you whom I eſpy the principall Mourners here, and perſonate the chiefeſt parts of this ſorowfull and Melancholy Scene; and from me do you beſpeak thoſe other near Relations whom I ſuppoſe extream Grief has kept from appearing here; Let me adviſe both you and them, not to <hi>ſorrow as them without hope;</hi> For tho I allow not a Stoical Apathy, and think it not Commenſurate to Humanity, nor yet ſerviceable to Religi<g ref="char:EOLhyphen"/>on, yet immoderate grief equally offends againſt both and argues the Weakneſs, if not the Nullity of out Faiths.</p>
+            <p>Weep not for the Deceaſed, but <hi>weep for your ſelves,</hi> Knowing that ſhe entred into that happy State, where, <hi>Job</hi> expreſſes it, C. 3. v. 17.18. <hi>The wicked ceaſe from troubling, and the weary</hi> are <hi>at reſt:</hi> Where the <hi>Priſoners reſt together,</hi> and <hi>hear not the Voyce of the Oppreſſour.</hi> She is gone but a little before, we are all moving apace, and it will not be long before we be encloſed behind the ſame Scene of Mourning, the ſolitary apartment of a Grave.</p>
+            <p>Her Grave will prove but her better Tiring Room, from whence She ſhall one day come <hi>viz.</hi> in the Morning of the Reſurrection, deck'd with the brighteſt Attire, when this Mortal Body of hers ſhall have put on Immortality.</p>
+            <p>To ſhew forth inordinate Sorrow would blemiſh her Funerals as far as lay in you, and ſeem to argue that you envy her peaceable and bleſsed Repoſe, and are againſt the priviledg of this her far more advantagious Birth: And ſo the Death of
+<pb n="14" facs="tcp:101657:9"/>the Martyrs were by the Primitive Writers Styled their Birth<g ref="char:EOLhyphen"/>dayes inaſmuch as then they began in the moſt eminent manner to live.</p>
+            <p>Therefore let me beſpeak you on her behalf, and in her ſtead, as the great <hi>Cyrus</hi> in the begining of his admired ſpeech cited before, giving command to his Sons and thoſe about him who ſhould Survive him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to Think, Speak, and Act all things, to Behave your ſelves with that Unconcernedneſs, as may argue that you are not in the leaſt, doubtfull or ſollicitous, but that She is in an happy condition, and that She has met with a Glorious and Bleſſed Change.</p>
+            <p>And may we have all Grace ſo to apply this occaſion, that <hi>we may all the Dayes of our appointed time wait till our Change Come:</hi> So that it may prove no other to us.</p>
+            <p>Now to the Inviſible God, and to our moſt Mercifull Savi<g ref="char:EOLhyphen"/>our, who have brought Life and Immortality to light through the Goſpell, together with the Eternal Spirit be aſcribed all Might, Majeſty, Dignity, Dominion, and Thanſgiving from this time forth and for Evermore.</p>
+            <closer>Amen, amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
